@@ -1,4 +1,9 @@
+
+![CoverPAge_github](https://user-images.githubusercontent.com/79863205/193422840-17967551-af9b-48e2-9560-a6f2410e9efc.png)
+
 ### Hi there 👋
+
+
 
 <!--
 **Jimmy-Taravia2001/Jimmy-Taravia2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
