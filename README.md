@@ -3,7 +3,10 @@
 ![COVER_PHOTO_01](https://user-images.githubusercontent.com/79863205/193458336-5d7f8eb6-86b0-4276-925a-62c27bba95c6.png)
 
 ### Hi there 👋
-My interests align in problem solving, Research, Chess, TV shows-review, Reading-researches on decision theory, technology, psychology.  
+My interests align in problem solving, Research, Chess, TV shows-review, Reading-researches on decision theory, technology, psychology, writing.
+
+Read what I have to say from my: [JIMMYS BLOGS](https://www.get-rid-of-bullshit.blogspot.com)  
+Click here to see my website: [Jimmy Taravia](https://www.jimmytaravia.com)
 
 
 <!--
