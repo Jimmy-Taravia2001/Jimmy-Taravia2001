@@ -1,5 +1,6 @@
 
-![CoverPAge_github](https://user-images.githubusercontent.com/79863205/193422840-17967551-af9b-48e2-9560-a6f2410e9efc.png)
+
+![COVER_PHOTO_01](https://user-images.githubusercontent.com/79863205/193458336-5d7f8eb6-86b0-4276-925a-62c27bba95c6.png)
 
 ### Hi there 👋
 
