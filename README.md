@@ -3,7 +3,7 @@
 ![COVER_PHOTO_01](https://user-images.githubusercontent.com/79863205/193458336-5d7f8eb6-86b0-4276-925a-62c27bba95c6.png)
 
 ### Hi there 👋
-
+My interests align in problem solving, Research, Chess, TV shows-review, Reading-researches on decision theory, technology, psychology.  
 
 
 <!--
