@@ -5,7 +5,7 @@
 ### Hi there 👋
 My interests align in problem solving, technology👨‍💻, Research, Reading-researches on decision theory, Chess ♘, TV shows-review 📺, writing ✍️.
 
-Read what I have to say from my: [JIMMYS BLOGS](https://www.get-rid-of-bullshit.blogspot.com)  
+Read : [https://www.get-rid-of-bullshit.blogspot.com](https://www.get-rid-of-bullshit.blogspot.com)  
 Click here to see my website: [Jimmy Taravia](https://www.jimmytaravia.com)
 
 
