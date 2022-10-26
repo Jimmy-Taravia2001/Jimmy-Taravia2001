@@ -5,8 +5,15 @@
 ### Hi there 👋
 My interests align in problem solving, technology👨‍💻, Research, Reading-researches on decision theory, Chess ♘, TV shows-review 📺, writing ✍️.
 
-Read : [https://www.get-rid-of-bullshit.blogspot.com](https://www.get-rid-of-bullshit.blogspot.com)  
-Click here to see my website: [Jimmy Taravia](https://www.jimmytaravia.com)
+
+ 
+Website: [Jimmy Taravia](https://www.jimmytaravia.com)
+
+BLOG : [https://www.get-rid-of-bullshit.blogspot.com](https://www.get-rid-of-bullshit.blogspot.com) 
+
+Research Paper: [ Advent of Big Data technology in environment and water management sector ](https://doi.org/10.1007/s11356-021-14017-y)
+
+LinkedIn: [Jimmy Taravia](https://www.linkedin.com/in/jimmytaravia)
 
 
 <!--
