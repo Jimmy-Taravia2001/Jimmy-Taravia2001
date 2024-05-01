@@ -15,10 +15,11 @@ Research Paper: [ Advent of Big Data technology in environment and water managem
 
 LinkedIn: [Jimmy Taravia](https://www.linkedin.com/in/jimmytaravia)
 
-
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jimmy-Taravia2001&show_icons=true&locale=en&layout=compact" alt="Jimmy-Taravia2001" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jimmy-Taravia2001&show_icons=true&locale=en" alt="Jimmy-Taravia2001" /></p>
+--!>
+
 <!--
 **Jimmy-Taravia2001/Jimmy-Taravia2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
