@@ -1,35 +1,19 @@
+# 👋 Hi, I'm Jimmy Taravia!  
+
+### About
+**University of Southern California**: Computer Science [Web Technologies, Game Consoles, Algorithms analysis]  <br>
+**Experience in**: full-stack development, cybersecurity tools, Research (BigData, AI, ML, DB).  <br>
+
+
+### Expertise: 
+ **Language** - C/C++, Python, JavaScript, TypeScript, C# <br>
+ **Full-Stack Development** - Angular, React, Node.js, MongoDB, BootstrapCSS, HTML/CSS <br>
+ **Others** - Google Cloud Console, Linux, Postman, Docker, Wazuh, Git (EsLint, Husky, prettier), Github, <br>
+ **AI & Research** - Machine Learning, Big Data Analytics  <br>
+ **Blogs** - 8000+ reads (https://get-rid-of-bullshit.blogspot.com) <br>
 
 
 
-### Hi there 👋
-My interests align in problem solving, technology👨‍💻, Research, Reading-researches on decision theory, Chess ♘, TV shows-review 📺, writing ✍️.
-
-
- 
-Website: [Jimmy Taravia](https://www.jimmytaravia.com)
-
-BLOG : [https://www.get-rid-of-bullshit.blogspot.com](https://www.get-rid-of-bullshit.blogspot.com) 
-
-Research: [ Advent of Big Data technology in environment and water management sector ](https://doi.org/10.1007/s11356-021-14017-y)
-
-LinkedIn: [Jimmy Taravia](https://www.linkedin.com/in/jimmytaravia)
-
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jimmy-Taravia2001&show_icons=true&locale=en&layout=compact" alt="Jimmy-Taravia2001" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jimmy-Taravia2001&show_icons=true&locale=en" alt="Jimmy-Taravia2001" /></p>
---!>
-
-<!--
-**Jimmy-Taravia2001/Jimmy-Taravia2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Want to Connect!  
+📧 **Email**: taraviajimmy01@gmail.com  
+🔗 [**LinkedIn**](https://linkedin.com/in/jimmytaravia) | [**GitHub**](https://github.com/Jimmy-Taravia2001) | [**Blog**](https://get-rid-of-bullshit.blogspot.com)  
