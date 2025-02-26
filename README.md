@@ -1,6 +1,5 @@
 
 
-![COVER_PHOTO_01](https://user-images.githubusercontent.com/79863205/193458336-5d7f8eb6-86b0-4276-925a-62c27bba95c6.png)
 
 ### Hi there 👋
 My interests align in problem solving, technology👨‍💻, Research, Reading-researches on decision theory, Chess ♘, TV shows-review 📺, writing ✍️.
@@ -11,7 +10,7 @@ Website: [Jimmy Taravia](https://www.jimmytaravia.com)
 
 BLOG : [https://www.get-rid-of-bullshit.blogspot.com](https://www.get-rid-of-bullshit.blogspot.com) 
 
-Research Paper: [ Advent of Big Data technology in environment and water management sector ](https://doi.org/10.1007/s11356-021-14017-y)
+Research: [ Advent of Big Data technology in environment and water management sector ](https://doi.org/10.1007/s11356-021-14017-y)
 
 LinkedIn: [Jimmy Taravia](https://www.linkedin.com/in/jimmytaravia)
 
