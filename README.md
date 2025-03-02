@@ -8,7 +8,7 @@
 ### Expertise: 
  **Language** - C/C++, Python, JavaScript, TypeScript, C# <br>
  **Full-Stack Development** - Angular, React, Node.js, MongoDB, BootstrapCSS, HTML/CSS <br>
- **Others** - Google Cloud Console, Linux, Postman, Docker, Wazuh, Git (EsLint, Husky, prettier), Github, <br>
+ **Others** - Google Cloud Console, Cloud SDK,  Linux, Postman, Docker, Wazuh, Git (EsLint, Husky, prettier), Github, <br>
  **AI & Research** - Machine Learning, Big Data Analytics  <br>
  **Blogs** - 8000+ reads (https://get-rid-of-bullshit.blogspot.com) <br>
 
