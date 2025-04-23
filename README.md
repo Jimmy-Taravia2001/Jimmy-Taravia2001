@@ -9,7 +9,7 @@
 
 ### **Expertise**: 
  **Language** - JavaScript, C/C++, Java, Python, C#, TypeScript, Kotlin, SQL <br>
- **Full-Stack Development** - Angular, React, Node.js, MongoDB, API, BootstrapCSS, Material-UI, HTML/CSS <br>
+ **Full-Stack Development** - Angular, React, Node.js, MongoDB, API, Android Studio, BootstrapCSS, Material-UI, HTML/CSS <br>
  **Others** - Google Cloud Console, Cloud SDK,  Linux, Postman, Docker, Git/Github (EsLint, Husky, prettier), Wazuh(Cybersecurity Monitoring Platform) <br>
  **Interests** - Researches (AI, ML), Psychology, Leadership, Product & Project Management  <br>
 
