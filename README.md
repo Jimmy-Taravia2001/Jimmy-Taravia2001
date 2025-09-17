@@ -14,6 +14,6 @@
 
 ### Want to Connect!  
 📧 **Email**: taraviajimmy01@gmail.com  
-🔗 [**LinkedIn**](https://linkedin.com/in/jimmytaravia) | [**GitHub**](https://github.com/Jimmy-Taravia2001) | [**Twitter**](https://x.com/Jimee_himself) | [**Blog**](https://get-rid-of-bullshit.blogspot.com)  
+🔗 [**LinkedIn**](https://linkedin.com/in/jimmytaravia) | [**GoogleScholar**](https://scholar.google.com/citations?user=A8rhmZ4AAAAJ&hl=en) | [**Twitter**](https://x.com/Jimee_himself) | [**Blog**](https://get-rid-of-bullshit.blogspot.com)  
 
 
