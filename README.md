@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Jimmy Taravia!  
+# 👋 Hii, I'm Jimmy Taravia!  
 
-## About
 ### **University of Southern California**: <br>
-  Masters in Computer Science [Web Technologies, Game Consoles, Algorithms analysis]  <br>
+  Masters in Computer Science [Web Technologies, Game Consoles, Algorithms analysis, Data Science and Machine Learning]  <br>
 ### **Experienced with**: <br> 
   Full-stack development, DevOps, Google Cloud Platform, Cybersecurity tools, Research in (AI, ML, DB, BigData).  <br>
 
