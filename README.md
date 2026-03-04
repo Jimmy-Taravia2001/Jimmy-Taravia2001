@@ -4,8 +4,8 @@
 
 ### **University of Southern California**: <br>
 
-🎓 **Computer Science Grad.** — Web Technologies, Game Consoles, Algorithm Analysis, Data Science and Machine Learning <br>
-🔬 **Research Assistant** — Zage Business of Energy Initiative (USC Marshall School of Business)  <br>
+**Computer Science Grad.** [Web Tech., Game Consoles, Data Science and Machine Learning, NLP]<br>
+**Research Assistant**  [Zage Business of Energy Initiative (USC Marshall School of Business)] <br>
 
 
 ### **Expertise**: 
