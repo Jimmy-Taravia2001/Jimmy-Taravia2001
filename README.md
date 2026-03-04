@@ -3,6 +3,11 @@
 ### **University of Southern California**: <br>
   -> Grad. Student in Computer Science  <br>
   -> Research Assitant at Zage Business Of Energy Initiative (USC Marshalls Business School) <br>
+🎓 **MS in Computer Science** — University of Southern California  
+🔬 **Research Assistant** — Zage Business of Energy Initiative (USC Marshall School of Business)  
+💻 Full-Stack Engineer | ☁️ Cloud & DevOps | 🤖 AI/ML Research  
+
+  
 ### **Experienced with**: <br> 
   Full-stack development, DevOps, Google Cloud Platform, Cybersecurity tools, Research in (AI, ML, DB, BigData).  <br>
 
