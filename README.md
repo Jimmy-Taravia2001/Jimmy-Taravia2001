@@ -1,7 +1,8 @@
 # 👋 Hii, I'm Jimmy Taravia!  
 
 ### **University of Southern California**: <br>
-  Grad. Student in Computer Science [Web Technologies, Game Consoles, Algorithm Analysis, Data Science and Machine Learning]  <br>
+  -> Grad. Student in Computer Science  <br>
+  -> Research Assitant at Zage Business Of Energy Initiative (USC Marshalls Business School) <br>
 ### **Experienced with**: <br> 
   Full-stack development, DevOps, Google Cloud Platform, Cybersecurity tools, Research in (AI, ML, DB, BigData).  <br>
 
