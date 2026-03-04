@@ -1,4 +1,4 @@
-# 👋 Hii, I'm Jimmy Taravia!  
+# 👋 Hii
 
 ### **University of Southern California**: <br>
   -> Grad. Student in Computer Science  <br>
