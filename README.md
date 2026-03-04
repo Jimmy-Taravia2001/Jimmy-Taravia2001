@@ -3,13 +3,13 @@
 ### **University of Southern California**: <br>
   -> Grad. Student in Computer Science  <br>
   -> Research Assitant at Zage Business Of Energy Initiative (USC Marshalls Business School) <br>
-🎓 **Graduate Computer Science** — Web Technologies, Game Consoles, Algorithm Analysis, Data Science and Machine Learning, NLP 
+🎓 **Computer Science Grad. ** — Web Technologies, Game Consoles, Algorithm Analysis, Data Science and Machine Learning, NLP 
 🔬 **Research Assistant** — Zage Business of Energy Initiative (USC Marshall School of Business)  
-💻 Full-Stack Engineer | ☁️ Cloud & DevOps | 🤖 AI/ML Research  
+💻 Full-Stack Engineer | ☁️ Cloud & DevOps | 🤖 AI/ML/LLM Research  
 
   
 ### **Experienced with**: <br> 
-  Full-stack development, DevOps, Google Cloud Platform, Cybersecurity tools, Research in (AI, ML, DB, BigData).  <br>
+  Full-stack Dev., Machine Learning & Data Science, LLMs, DevOps, Cybersecurity tools, Research in (AI/ML/BigData).  <br>
 
 ### **Expertise**: 
  **Language** - JavaScript, C/C++, Java, Python, C#, TypeScript, PHP, Kotlin, SQL <br>
