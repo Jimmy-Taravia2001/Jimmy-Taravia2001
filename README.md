@@ -1,5 +1,5 @@
 # 👋 Hii, Jimmy here
-  Full-stack Software Eng. | Machine Learning & Data Science | LLMs/AI/Database/DevOps | Cybersecurity tools.  <br>
+  Full-stack Software Eng. | Machine Learning & Data Science | LLMs/AI/Database/AI-Agents | Cybersec tools.  <br>
 
 
 ### **University of Southern California**: <br>
@@ -15,7 +15,7 @@
 **Cloud & DevOps** - AWS, Google Cloud Console, Cloud SDK, Linux, Kubernetes, Docker, (ESLint, Husky, Prettier), Wazuh (Cybersecurity Monitoring Platform) <br>
 **Database** - PostgreSQL, Redis, MySQL, MongoDB, ChromaDB <br>
 **Data & AI** - LangChain, OpenAI API, ChromaDB, NumPy, Pandas, RAG Pipelines <br>
- **Interests** - LLMs, Researches (AI, ML, NLP) <br>
+ **Interests** - LLMs, Agentic AI, MCP, (AI/ML, Deep Learning, NLP) <br>
 
 ### Want to Connect!  
 📧 **Email**: taraviajimmy01@gmail.com  
